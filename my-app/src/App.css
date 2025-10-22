@@ -1,0 +1,9 @@
+body{
+  background-color: hsl(180, 31%, 61%);
+  color:bisque;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 56px;
+}
